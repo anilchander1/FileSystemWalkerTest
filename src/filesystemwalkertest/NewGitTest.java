@@ -13,7 +13,7 @@ public class NewGitTest {
     
     
     public String sayHello(){
-        return "Hello world";
+        return "Hello world!";
     }
     
 }
